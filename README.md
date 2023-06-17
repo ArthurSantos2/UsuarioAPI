@@ -49,7 +49,7 @@ A aplicação WebAPI de CRUD de usuários tem como objetivo fornecer endpoints p
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram utilizadas neste projeto:
 
 - [.NET 7](https://expo.io/)
 - [Entity Framework Core](https://nodejs.org/en/)
