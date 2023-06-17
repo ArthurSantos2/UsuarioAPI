@@ -61,7 +61,7 @@ The following tools were used in this project:
 
 Antes de iniciar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e [MySql Server](https://dev.mysql.com/downloads/mysql/) instalado.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Iniciar ##
 
 ```bash
 # Clone o projeto
