@@ -71,10 +71,15 @@ $ git clone https://github.com/ArthurSantos2/UsuarioAPI
 $ Navegue até o diretório onde o repositório foi clonado,selecione o arquivo do projeto e o abra
 
 # Restaure os pacotes NuGet
-$ Caso o Visual Studio não restaure automaticamente os pacotes NuGet necessários. Você deve clicar com o botão direito no projeto no "Solution Explorer" (Explorador de Soluções) e selecionar "Restore NuGet Packages" (Restaurar Pacotes NuGet).
+$ Caso o Visual Studio não restaure automaticamente os pacotes NuGet necessários. 
+Você deve clicar com o botão direito no projeto no "Solution Explorer" (Explorador de Soluções) e selecionar "Restore NuGet Packages" (Restaurar Pacotes NuGet).
+
+# Configure o banco de dados
+$ Modifique a string de conexão no arquivo appsettings.json para ser compatível com seu servidor de banco de dados.
+"server=yourServerAddress;database=yourDataBase;user=yourUsername;password=yourPassword;"
 
 # Inicie o projeto
-$ Aperte a tecla F5
+$ Aperte a tecla F5 para o projeto ser iniciado e o banco de dados criado
 
 # O servidor se inicializa em <https://localhost:7143/>
 ```
