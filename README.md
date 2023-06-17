@@ -1,13 +1,13 @@
 <h1 align="center">UsuarioAPI</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ArthurSantos2/usuarioapi?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ArthurSantos2/UsuarioAPI?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ArthurSantos2/usuarioapi?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ArthurSantos2/UsuarioAPI?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurSantos2/usuarioapi?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurSantos2/UsuarioAPI?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/ArthurSantos2/usuarioapi?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ArthurSantos2/UsuarioAPI?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/usuarioapi?color=56BEB8" /> -->
 
@@ -31,7 +31,7 @@
   <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Iniciar</a> &#xa0; | &#xa0;
   <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autoria</a>
+  <a href="https://github.com/ArthurSantos2" target="_blank">Autoria</a>
 </p>
 
 <br>
@@ -65,7 +65,7 @@ Antes de iniciar :checkered_flag:, você precisa ter o [Git](https://git-scm.com
 
 ```bash
 # Clone o projeto
-$ git clone https://github.com/ArthurSantos2/usuarioapi
+$ git clone https://github.com/ArthurSantos2/UsuarioAPI
 
 # Abra o projeto no Visual Studio:
 $ Navegue até o diretório onde o repositório foi clonado,selecione o arquivo do projeto e o abra
@@ -84,7 +84,7 @@ $ Aperte a tecla F5
 Esse Projeto está sob licença MIT. Para mais detalhes, veja o arquivo [LICENSE](LICENSE.md).
 
 
-Feito com :heart: por <a href="https://github.com/{{ArthurSantos2}}" target="_blank">Arthur Santos</a>
+Feito com :heart: por <a href="https://github.com/ArthurSantos2" target="_blank">Arthur Santos</a>
 
 &#xa0;
 
