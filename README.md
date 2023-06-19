@@ -49,7 +49,7 @@ A aplicação WebAPI de CRUD de usuários tem como objetivo fornecer endpoints p
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes ferramentas foram utilizadas neste projeto:
 
 - [.NET 7](https://expo.io/)
 - [Entity Framework Core](https://nodejs.org/en/)
@@ -61,7 +61,7 @@ The following tools were used in this project:
 
 Antes de iniciar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e [MySql Server](https://dev.mysql.com/downloads/mysql/) instalado.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Iniciar ##
 
 ```bash
 # Clone o projeto
